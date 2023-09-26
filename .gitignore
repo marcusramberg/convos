@@ -33,3 +33,15 @@ convos*_source.tar.bz2
 /prime/
 /stage/
 /public/assets/*.development.*
+
+# Devenv
+.devenv*
+devenv.local.nix
+
+# direnv
+.direnv
+
+# pre-commit
+.pre-commit-config.yaml
+
+.envrc

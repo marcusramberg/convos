@@ -1,4 +1,6 @@
 [![convos](https://snapcraft.io//convos/badge.svg)](https://snapcraft.io/convos)
+[![Docker Status](https://github.com/convos-chat/convos/workflows/Docker%20Image%20CI/badge.svg?branch=main)](https://hub.docker.com/r/convos/convos)
+[![Alpha Image](https://github.com/convos-chat/convos/actions/workflows/alpha.yml/badge.svg?branch=main)](https://github.com/convos-chat/convos/actions/workflows/alpha.yml)
 [![Build Status](https://github.com/convos-chat/convos/workflows/Linux%20CI/badge.svg?branch=main)](https://github.com/convos-chat/convos/actions)
 [![GitHub issues](https://img.shields.io/github/issues/convos-chat/convos)](https://github.com/convos-chat/convos/issues)
 
