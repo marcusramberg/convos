@@ -3,9 +3,9 @@
 {
   # https://devenv.sh/packages/
   packages = with pkgs; [
-    convos
-    golangci-lint
     air
+    golangci-lint
+    hugo
     pnpm
   ];
   languages.go = {
